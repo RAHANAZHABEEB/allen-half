@@ -1,0 +1,216 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+.bac{
+    /* background-color: #000000; */
+    background:url("imag/top-banner-bckg.jpg");
+    width: 100%;
+    height: 800px;
+}
+.navbar-brand{
+    padding-left: 450px;
+    font-family: 'Dancing Script', cursive;
+    font-weight: 300;
+    color: hsla(48, 84%, 73%, 0.827);
+    font-size: 35px;
+}
+.bg{
+    background-color: rgb(217, 172, 113);
+    opacity: 0.8;
+}
+.bg a{
+    color: white;
+}
+.dropdown-menu a{
+    color: #000000;
+}
+.img{
+    background-color: #000000;opacity: 0.9; 
+    width: 100%;
+    height: 800px;
+    position: absolute;top: 0%;
+}
+.kl
+{position: relative;
+    z-index: 1;
+}
+#Hello{
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Roboto', sans-serif;
+    color: hwb(0 9% 43%);
+}
+#Jhone{
+    font-weight: 900;
+    padding-left: 150px;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Lilita One', cursive;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    font-size: 70px;
+}
+#Smith{
+    font-weight: 900;
+    padding-left: 190px;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Lilita One', cursive;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    font-size: 70px;
+}
+#Traveler{
+    color: white;
+    padding-left: 190px;
+    font-weight: 300;
+}
+.cd{
+    color: white;
+    padding-left: 50px;
+}
+.n1{
+    margin-top: 200px;
+}
+#oi{
+    color: white;
+    background-color: #000000;
+}
+#j1{
+    font-size: 100px;
+    color: hwb(0 64% 22%);
+    font-weight: 900;
+}
+#j2{
+    font-size: 50px;
+    color: black;
+    font-weight: 900;
+}
+.nbv1{
+    padding-top: 50px;
+}
+.re{
+   position: absolute;
+    left: 100px;
+   /* border: 20px;
+   border-color:white;
+   margin-top: 10px; */
+   margin-left: 400px;
+   background-color: white;
+   width: 410px;
+   border: 10px solid white;
+
+}
+#pom{
+    font-size: 50px;
+    font-weight: 900;
+    text-align: center;
+    color: white;
+
+}
+.opop{
+    background:url("imag/about-me-bckg.jpg") ;
+     padding-top: 200px;
+     margin-left: 600px;
+     height: 900px;
+}
+.opopp p{
+    color: white;
+    padding: 150px;
+    margin-left: 150px;
+    text-align: justify;
+}
+.opopp span{
+    font-size: 30px;
+    font-weight: 400;
+}
+.uy{
+    padding-top: 100px;
+    position: relative;
+}
+.nbv2{
+    padding-top: 100px;
+}
+#new1{
+    font-size: 50px;
+    font-weight: 500;
+    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Lilita One', cursive;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+.cx1{
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+#cpnb {
+    box-sizing: border-box;
+  }
+  
+  .rating-box {
+    color: #f0f0f0;
+    text-shadow: 0px 1px 10px black;
+    margin: 3rem auto;
+    height: 3rem;
+    width: 25rem;
+  }
+  
+  .rating-star {
+    font-size: 2rem;
+    width: 2rem;
+    height: 2rem;
+    /* padding: 0 2rem; */
+    position: relative;
+    display: block;
+    float: left;
+  }
+  
+  .full-star:before {
+    color: #f2b01e;
+    content: "\2605";
+    position: absolute;
+    left: 0;
+    overflow: hidden;
+  }
+  
+  /* .empty-star:before {
+    content: "\2605";
+    position: absolute;
+    left: 0;
+    overflow: hidden;
+  } */
+  
+  /* .half-star:before {
+    color: #f2b01e;
+    content: "\2605";
+    width: 30%;
+    position: absolute;
+    left: 0;
+    overflow: hidden;
+  } */
+  
+  /* .half-star:after {
+    content: '\2605';
+    position: absolute;
+    left: 1.5rem;
+    width: 30%;
+    text-indent: -1.5rem;
+    overflow: hidden;
+  }
+   */
+   .b12{
+    padding-top: 100px;
+    background-color:orangered;
+    margin-right: 400px;
+   }
+.ph10{
+     background-color: red;
+     width: 100%;
+     height: 200px;
+}
+.Blog{
+    text-align: center;
+    font-weight: 600;
+    font-size: 35px;
+    padding: 50px;
+}
+.cx125P{
+    padding: 50px;
+}

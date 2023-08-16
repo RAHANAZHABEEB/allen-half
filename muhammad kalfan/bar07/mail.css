@@ -1,0 +1,23 @@
+.coli{
+    margin-left:200px;
+    color: white;
+}
+#coli a{
+    /* margin-left: 100px; */
+    color: white;
+}
+#text1{
+    width: 400px;
+    height: 40px;
+}
+.vb12{
+    padding-top: 10px;
+    border: 2px solid black;
+    padding-bottom: 10px;
+}
+.crt{
+     background-color: #004274;
+}
+.select{
+    height: 40px;
+}
